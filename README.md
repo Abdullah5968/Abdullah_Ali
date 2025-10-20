@@ -68,6 +68,6 @@ From design to deployment — I make your digital presence powerful, responsive,
 ---
 
 ### 📈 Contribution Graph  
-![Abdullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-ali&theme=tokyo-night)
+![Abdullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah_Ali&theme=tokyo-night)
 
 <h3 align="center">⭐ Let’s collaborate and create something amazing!</h3>
