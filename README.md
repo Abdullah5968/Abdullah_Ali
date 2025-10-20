@@ -59,7 +59,7 @@ From design to deployment — I make your digital presence powerful, responsive,
 ---
 
 ### 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=Abdullah_Ali&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=AbdullahAli&color=blue)
 
 ---
 
