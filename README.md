@@ -47,10 +47,9 @@ From design to deployment — I make your digital presence powerful, responsive,
 
 ---
 
-### 📊 GitHub Stats
-![Abdullah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah_Ali&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats  
+![Abdullah’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah_Ali&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah_Ali&layout=compact&theme=tokyonight)
-
 ---
 
 ### 💬 Quote
