@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Abdullah Ali</h1>
-<h3 align="center">🚀 Full-Stack Developer | App Creator | Shopify & E-commerce Expert | YouTube Automation</h3>
+<h3 align="center">🚀 Full-Stack Developer | App Creator | Shopify & E-commerce Expert | YouTube Automation Specialist</h3>
 
 ---
 
@@ -14,7 +14,7 @@ From design to deployment — I make your digital presence powerful, responsive,
 - 📱 **App Development** — Cross-platform apps using **Flutter** & **React Native**
 - 🛒 **Shopify Store Creation** — Custom themes, high-conversion layouts & store automation
 - 💼 **E-commerce Websites** — End-to-end development, from UI to payment gateway integration
-- 🤖 **YouTube Automation** — Channel setup, automation tools, analytics, and scaling
+- 🤖 **YouTube Automation** — Channel setup, faceless automation, content scaling & monetization
 
 ---
 
@@ -43,8 +43,8 @@ From design to deployment — I make your digital presence powerful, responsive,
 ### 🌍 Connect With Me
 📧 **Email:** [abdullahch5968@gmail.com](mailto:abdullahch5968@gmail.com)  
 🛒 **Shopify Store:** [emporiumstyles.store](https://emporiumstyles.store/)  
-🎥 **YouTube:** *Coming Soon — YouTube Automation Projects in Progress!*  
-💼 **LinkedIn:** *Coming Soon*
+🎥 **YouTube:** [@abdullahali-automation](https://www.youtube.com/@abdullahali-automation)  
+💼 **LinkedIn:** [linkedin.com/in/abdullah-ali-a7a582268](https://www.linkedin.com/in/abdullah-ali-a7a582268/)
 
 ---
 
